@@ -45,7 +45,7 @@ namespace sifre_kontrol
                 sifreKontrol = "zayýf";
                 label1.Text = sifreKontrol;
                 label1.ForeColor= Color.Red;
-
+                //
 
 
             }
